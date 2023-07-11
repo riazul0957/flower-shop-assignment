@@ -1,4 +1,8 @@
 
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
 h3 {
     color: #272727;
     width: 700px;
@@ -127,17 +131,23 @@ h2 {
 
 #image {
     display: inline-block;
-    margin-left: 200px;
+    text-align: center;
+    align-items: center;
+    margin: 50px;
 
 }
 
-.about-titles-3 {
+/* .about-titles-3 {
     display: inline;
     margin: 45px;
+    text-align: center;
 
 
+    
+} */
+.about-some{
+    display: inline;
 }
-
 .about-titles {
     margin-top: 20px;
     text-align: center;
