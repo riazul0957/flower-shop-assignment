@@ -1,3 +1,4 @@
+
 h3 {
     color: #272727;
     width: 700px;
@@ -80,8 +81,8 @@ h2 {
 }
 
 .flower-tree-box {
-    
-margin-bottom:50px;
+
+    margin-bottom: 50px;
 }
 
 #flower1 {
@@ -221,51 +222,54 @@ h4 {
     font-weight: 400;
     line-height: 30px;
 }
-.email-input{
+
+.email-input {
     /* width: 700px;
 height: 64px;
 flex-shrink: 0;
 border-radius: 8px;
 background: #FFF; */
-background-color: #FFFFFF;
-margin-left: 100px;
-text-align: left;
-/* margin-right: 600px; */
-margin-top: 60px;
-padding-top: 20px;
-padding-bottom: 20px;
-padding-right:400px;
-padding-left: 20px;
-border-radius: 8px;
-background: #FFF;
-color: rgba(39, 39, 39, 0.60);
-font-size: 16px;
-font-weight: 400;
+    background-color: #FFFFFF;
+    margin-left: 100px;
+    text-align: left;
+    /* margin-right: 600px; */
+    margin-top: 60px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 400px;
+    padding-left: 20px;
+    border-radius: 8px;
+    background: #FFF;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 16px;
+    font-weight: 400;
 
 
 
 
 }
-.subscribe-btn{
+
+.subscribe-btn {
     width: 150px;
-height: 64px;
-flex-shrink: 0;
-border-radius: 8px;
-background: #E55473;
-color: #FFF;
-font-family: Lato;
-font-size: 20px;
-font-style: normal;
-font-weight: 700;
-line-height: normal;
-margin-left: 10px;
+    height: 64px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 10px;
 }
 
 
-.Subscribe{
+.Subscribe {
     display: inline-block;
 }
-.footer-search{  
+
+.footer-search {
     padding-bottom: 300px;
     text-align: center;
     background-image: url('Rectangle\ 9.png');
@@ -297,12 +301,12 @@ margin-left: 10px;
 }
 
 .flowershop-description {
-    
+
     color: white;
     width: 625px;
     /* margin-left: 400px; */
     flex-shrink: 0;
-    
+
 
 }
 
@@ -312,6 +316,6 @@ margin-left: 10px;
     font-size: 16px;
     margin-top: 30px;
     font-weight: 400;
-    text-align:center;
+    text-align: center;
 
 }
