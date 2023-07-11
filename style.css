@@ -1,0 +1,41 @@
+h3 {
+    color: #272727;
+    width: 700px;
+    height: 250px;
+    font-size: 80px;
+    font-weight: 800;
+}
+
+.Header-caption {
+    margin-top: 30px;
+    margin-bottom: 32px;
+    width: 634px;
+}
+
+.shop-now-btn {
+    padding: 20px 43px;
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFFFFF;
+    font-size: 18px;
+}
+.full-header{
+    padding-top: 0px;
+    padding-left: 150px;
+    padding-bottom: 50px;
+    
+}
+header{
+    background-color:   rgba(229, 84, 115, 0.10);
+    padding-bottom:0px;
+    
+}
+.flower-image{
+    position:static;
+    padding-top: 100px;
+    display: block;
+    
+}
+.header-box0{
+    display: inline-block;
+}
