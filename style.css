@@ -202,9 +202,73 @@ h4 {
 
 }
 
+.footer-deals-header {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    padding-top: 300px;
+
+}
+
+.coupon {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.email-input{
+    /* width: 700px;
+height: 64px;
+flex-shrink: 0;
+border-radius: 8px;
+background: #FFF; */
+background-color: #FFFFFF;
+margin-left: 100px;
+text-align: left;
+/* margin-right: 600px; */
+margin-top: 60px;
+padding-top: 20px;
+padding-bottom: 20px;
+padding-right:400px;
+padding-left: 20px;
+border-radius: 8px;
+background: #FFF;
+color: rgba(39, 39, 39, 0.60);
+font-size: 16px;
+font-weight: 400;
 
 
 
+
+}
+.subscribe-btn{
+    width: 150px;
+height: 64px;
+flex-shrink: 0;
+border-radius: 8px;
+background: #E55473;
+color: #FFF;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-left: 10px;
+}
+
+
+.Subscribe{
+    display: inline-block;
+}
+.footer-search{  
+    padding-bottom: 300px;
+    text-align: center;
+    background-image: url('Rectangle\ 9.png');
+    background-position: center;
+    background-repeat: no-repeat;
+}
 
 
 
@@ -212,24 +276,36 @@ h4 {
 
 
 /* FOOTER SECTION */
-#flower-shop-logo{
+#flower-shop-logo {
     color: #E55473;
 }
-.footer-section{
+
+.footer-section {
     text-align: center;
     background: #111010;
     padding-top: 50px;
     padding-bottom: 50px;
     padding-left: 50px;
-    padding-right:50px;
+    padding-right: 50px;
 }
-#flower-shop-logo-2{
+
+#flower-shop-logo-2 {
     color: #FFFFFF;
 }
-.flowershop-description{
+
+.flowershop-description {
     text-align: center;
     color: white;
     width: 625px;
-    margin-left:400px;
+    margin-left: 400px;
     flex-shrink: 0;
+}
+
+.all-rights-resurved {
+    /* color: white; */
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+    margin-top: 30px;
+    font-weight: 400;
+
 }
