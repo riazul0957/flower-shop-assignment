@@ -73,20 +73,21 @@ h2 {
 
 .flower-tree {
     display: inline-block;
-    margin: 20px;
+    margin: 10px;
+
 
 
 }
 
 .flower-tree-box {
-    padding-left: 190px;
-
+    
+margin-bottom:50px;
 }
 
 #flower1 {
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
-
+    box-shadow: 3px 3px;
 
 }
 
@@ -94,21 +95,23 @@ h2 {
 
     border-radius: 300px 300px 0px 0px;
     background: rgba(5, 151, 160, 0.15);
+    box-shadow: 3px 3px;
 }
 
 #flower3 {
     border-radius: 300px 300px 0px 0px;
     background: rgba(71, 125, 17, 0.15);
+    box-shadow: 3px 3px;
 
 }
 
-h6 {
+/* h6 {
     display: inline-block;
     font-size: 22px;
     margin-top: 0px;
     gap: 100px;
-    margin-left: 260px;
-}
+    align-content: space-between;
+} */
 
 .about-section {
     padding-top: 15px;
@@ -294,11 +297,13 @@ margin-left: 10px;
 }
 
 .flowershop-description {
-    text-align: center;
+    
     color: white;
     width: 625px;
-    margin-left: 400px;
+    /* margin-left: 400px; */
     flex-shrink: 0;
+    
+
 }
 
 .all-rights-resurved {
@@ -307,5 +312,6 @@ margin-left: 10px;
     font-size: 16px;
     margin-top: 30px;
     font-weight: 400;
+    text-align:center;
 
 }
