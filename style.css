@@ -107,9 +107,79 @@ h6 {
     font-size: 22px;
     margin-top: 0px;
     gap: 100px;
-     margin-left: 260px;
+    margin-left: 260px;
 }
-.heading-6{
-    /* text-align: center; */
-   
+
+.about-section {
+    padding-top: 15px;
+    margin-left: 240px;
+    margin-bottom: 50px;
+    padding-bottom: 15px;
+    margin-right: 240px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+
+}
+
+#image {
+    display: inline-block;
+    margin-left: 200px;
+
+}
+
+.about-titles-3 {
+    display: inline;
+    margin: 45px;
+
+
+}
+
+.about-titles {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 15px;
+    color: rgba(39, 39, 39, 0.80);
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 35px;
+
+}
+
+.Hot-deal {
+    margin-bottom: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 200px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    
+}
+
+.hot-deal-description {
+    text-align: center;
+    display: flex;
+    width: 580px;
+    flex-direction: column;
+    flex-shrink: 0;
+    margin-right: 200px;
+    
+}
+
+h4 {
+    padding-left: 30px;
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 0px;
+
+
+}
+.off{
+    color: #E55473;
+}
+#signup-btn{
+    margin-left: 220px;
+}
+.hot-deal-tree{
+    display: inline-block;
 }
